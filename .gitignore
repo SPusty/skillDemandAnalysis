@@ -1,0 +1,4 @@
+
+# Environment variables and database credentials
+.env
+**/.env
