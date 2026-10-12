@@ -9,10 +9,10 @@ ________________________________________
 
 ## **Tools & Technologies**
 
-1. VistudioStudio Code
-2. PowerBI Desktop
-3. Python
-4. SQL
+1. PowerBI
+2. Python
+3. SQL
+4. VistudioStudio Code
 5. GitHub
 ________________________________________
 
@@ -42,7 +42,7 @@ ________________________________________
  **Phase 2: SQL Analysis**
 SQL queries to execute complex business logic using core relational database mechanics:
 1.	Detect any Salary Gap
-2.	Finding demand spike (where applicants_count was exceptionally high, while views_count stayed below that industry's average)                                                              
+2.	Finding demand spike (where applicants_count was exceptionally high, while views_count stayed low)
 3.	Find average applicants_count for each employment_type when remote_type is 'Remote' versus 'Onsite'
 4.	Calculate the percentage of times a posting was labelled 'Senior' as seniority but its 'experience_years_required' was actually 3 or fewer
 ________________________________________
